@@ -1,0 +1,14 @@
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\bin\Debug\net8.0\MatchCardsTask.exe
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\bin\Debug\net8.0\MatchCardsTask.deps.json
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\bin\Debug\net8.0\MatchCardsTask.runtimeconfig.json
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\bin\Debug\net8.0\MatchCardsTask.dll
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\bin\Debug\net8.0\MatchCardsTask.pdb
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.AssemblyInfoInputs.cache
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.AssemblyInfo.cs
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.dll
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\refint\MatchCardsTask.dll
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.pdb
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\MatchCardsTask.genruntimeconfig.cache
+C:\Users\user-pc\OneDrive\Desktop\MatchCardsTask\MatchCardsTask\obj\Debug\net8.0\ref\MatchCardsTask.dll
